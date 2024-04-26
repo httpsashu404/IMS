@@ -2,6 +2,7 @@
 
 A simple MERN project that lets the user insert, update, delete & get products from the MongoDB.<br/><br/>
 
+**Link :** https://imswithashu.netlify.app/ <br/><br/>
 **Image-1**<br/><br/>
    ![img](https://github.com/httpsashu404/IMS/assets/159816902/1d695fc2-6d1a-47b7-8a25-f4c55c902d9e)
 <br/><br/>
